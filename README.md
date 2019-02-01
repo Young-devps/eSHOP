@@ -5,3 +5,4 @@ the second things is to import the database in my file
 the latest thing is to copy the entyre project into wamp/www to run in browser the project
 
 ThX guy. @techco-defacil
+young-devps. follow my youtube channel #tech-co dé-facil
